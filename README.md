@@ -76,9 +76,11 @@ Busco sempre aprender mais, criar projetos difíceis e explorar ideias inovadora
 
 ## 📌 Estatísticas do GitHub
 
-![GitHub stats]([https://github-readme-stats.vercel.app/api?username=mayllon-luan&show_icons=true&theme=dracula&cache_seconds=86400](https://github-readme-stats-mayumi-88ck.vercel.app/api?username=mayllon-luan&show_icons=true&theme=dracula
-))
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayllon-luan&layout=compact&theme=dracula&cache_seconds=86400)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-mayumi-88ck.vercel.app/api?username=mayllon-luan&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-mayumi-88ck.vercel.app/api/top-langs/?username=mayllon-luan&layout=compact&theme=dracula" />
+</p>
+
 
 
 ---
