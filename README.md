@@ -70,15 +70,15 @@ Busco sempre aprender mais, criar projetos difíceis e explorar ideias inovadora
 
 * **Email:** mayllonmendesvera@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/mayllon-luan-mendes-vera
-* **Instagram:** @mayllonluan_
+* **Instagram:** https://www.instagram.com/mayllonluan_
 
 ---
 
 ## 📌 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayllon-Luan&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayllon-Luan&layout=compact&theme=dracula"/>
 </p>
 
 ---
