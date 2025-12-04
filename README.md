@@ -77,8 +77,9 @@ Busco sempre aprender mais, criar projetos difíceis e explorar ideias inovadora
 ## 📌 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-mayumi-88ck.vercel.app/api?username=mayllon-luan&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats-mayumi-88ck.vercel.app/api/top-langs/?username=mayllon-luan&layout=compact&theme=dracula" />
+  <img src="https://img.shields.io/badge/Usuário-mayllon--luan-red?style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/mayllon-luan?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/mayllon-luan?style=for-the-badge">
 </p>
 
 
